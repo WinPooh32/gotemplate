@@ -5,4 +5,4 @@ Can be generated for selected type by this tool: [gotemplate](https://github.com
 
 Examples:
 
-- [ring](github.com/WinPooh32/gotemplate/examples/ring)
+- [ring](https://github.com/WinPooh32/gotemplate/examples/ring)
